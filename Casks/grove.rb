@@ -1,6 +1,6 @@
 cask "grove" do
-  version "0.2.4"
-  sha256 "301df30ddc4fb83e4f8c49272d0bfd69528ea6a01418c196e14dec896d17d2dc"
+  version "0.2.5"
+  sha256 "fdef4ca735d3a81e818a8319602396e01341ae32c817dd7f0475ddf7c403ecd0"
 
   url "https://github.com/BarrySong97/grove/releases/download/v#{version}/Grove_#{version}_universal.dmg",
       verified: "github.com/BarrySong97/grove/"
